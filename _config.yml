@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Wentao Huang(黄文韬)
+logo: /assets/img/profile.png
+description: Institute of Information Engineering | Chinese Academy of Sciences(UCAS), Beijing, China
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
