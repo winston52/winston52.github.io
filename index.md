@@ -6,10 +6,6 @@ layout: default
 
 Hi, I have received my master's degree from Institute of Information Engineering, Chinese Academy of Sciences in July 2021, focusing on **semantic text matching**.
 
-
-
-hahahhhahahahah
-
 ## Education
 
 <img align="left" src=" https://raw.githubusercontent.com/winston52/winston52.github.io/main/assets/img/CAS.png" width = "85" height = "85"/>
