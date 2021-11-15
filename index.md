@@ -26,7 +26,7 @@ Hi, I have received my master's degree from Institute of Information Engineering
 ## Research Experience
 
 * **Hybrid Knowledge Distillation for Lightweight Semantic Text Matching**  
-> **Abstract**: To improve the performance of the compressed model for semantic text matching, I propose a hybrid knowledge distillation strategy. Specifically, the lightweight student model improved its accuracy and robustness by simultaneously fitting in representation and attention information of the middle layers of the teacher model. Experimental results show that the compressed model can achieve up to 96% accuracy with only half of the parameters.   
+> **Abstract**: To improve the performance of the compressed model for semantic text matching, I propose a hybrid knowledge distillation strategy. Specifically, the lightweight student model improved its accuracy and robustness by simultaneously fitting in representation and attention information of the middle layers of the teacher model. Experimental results show that the compressed model can achieve up to **96%** accuracy with only half of the parameters.   
 
 * **Parallel Optimization of LTE Channel Estimation Algorithm Based on ARM NEON
 Instruction Set** &emsp;Dec 2017 - May 2018  
@@ -34,11 +34,11 @@ Instruction Set** &emsp;Dec 2017 - May 2018
 
 ## Project Experience
 
-* **Online News Topic Detection**  
-> **Abstract**: To accurately and quickly discover the latest news topic, I implemented an online detection system based on the single-pass algorithm. In addition, text representation is obtained by BERT, which is the state-of-the-art word embedding method. After being deployed, our system can handle **300 texts** per minute and stably operate in long term.  
+* **On-line News Topic Detection**  
+> **Abstract**: To accurately and quickly discover the latest news topic, I implemented an on-line detection system based on the single-pass algorithm. In addition, text representation is obtained by BERT, which is the state-of-the-art word embedding method. After being deployed, our system can handle **300 texts** per minute and stably operate in long term.  
 
 * **Intelligent Parking Lot Management System based on ZigBee Network**  
-> **Abstract**: Our team designed an intelligent parking lot management system that can automatically deliver parking information to users in real-time. Specifically, it first collects information of parking space by utilizing geomagnetic sensors, then transmits the data to the center through the ZigBee network, finally synchronizes the message to the edge devices. I was responsible for the communications between nodes and sensors.  
+> **Abstract**: Our team designed an intelligent parking lot management system that can automatically deliver parking information to users in real-time. Specifically, it first collects information of parking space by utilizing geomagnetic sensors, then transmits the data to the center through the ZigBee network, finally synchronizes the message to the edge devices. I was responsible for implementing the communications between nodes and sensors.  
 
 ## Skills
 * Language : English (**IELTS 7.5**)
