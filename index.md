@@ -25,20 +25,19 @@ Hi, I have received my master's degree from Institute of Information Engineering
 
 ## Research Experience
 
-* **Hybrid Knowledge Distillation for Lightweight Semantic Text Matching**  
+* **Hybrid Knowledge Distillation for Lightweight Semantic Text Matching**&emsp;Jul 2020 - May 2021  
 > **Abstract**: To improve the performance of the compressed model for semantic text matching, I propose a hybrid knowledge distillation strategy. Specifically, the lightweight student model improved its accuracy and robustness by simultaneously fitting in representation and attention information of the middle layers of the teacher model. Experimental results show that the compressed model can achieve up to **96%** accuracy with only half of the parameters.   
 
-* **Parallel Optimization of LTE Channel Estimation Algorithm Based on ARM NEON
-Instruction Set**  
->  **Abstract**: To reduce the cell search time when initializing the device, this work parallelly optimizes the LTE channel estimation with the ARM NEON instruction set. During my participation, I designed and implemented the optimization schemes. The experimental results show that the execution efficiency of the searching algorithm is improved at least **25%** by applying the NEON instruction set.  
+* **Parallel Optimization of Channel Estimation Algorithm Based on ARM NEON Technology**&emsp;Dec 2017 - May 2018  
+>  **Abstract**: To reduce the cell search time when initializing the device, we parallelly optimize the LTE channel estimation with the ARM NEON instruction set. After analyzing the multi-channel characteristics of the key parts of the algorithm, I designed and implemented the optimization schemes. The experimental results show that the execution efficiency of the algorithm is increased by at least **25%** by applying the NEON instruction set.  
 
 ## Project Experience
 
-* **On-line News Topic Detection**  
-> **Abstract**: To accurately and quickly discover the latest news topic, I implemented an on-line detection system based on the single-pass algorithm. In addition, text representation is obtained by BERT, which is the state-of-the-art word embedding method. After being deployed, our system can handle **300 texts** per minute and stably operate in long term.  
+* **Online News Topic Detection**&emsp;Oct 2019 - Mar 2020  
+> **Abstract**: To accurately and quickly discover potential topics from a large number of raw texts, we implemented an online topic detection system based on the single-pass algorithm. The system first obtains text representation by word embedding methods, then groups similar texts based on the similarity of the vectors, finally extract keywords from the clusters to form the topics. After deployment, our system can process **300** short texts per minute and run stably for a long time.  
 
-* **Intelligent Parking Lot Management System based on ZigBee Network**  
-> **Abstract**: Our team designed an intelligent parking lot management system that can automatically deliver parking information to users in real-time. Specifically, it first collects information of parking space by utilizing geomagnetic sensors, then transmits the data to the center through the ZigBee network, finally synchronizes the message to the edge devices. I was responsible for implementing the data transmission between nodes and sensors.  
+* **Intelligent Parking Lot Management System based on ZigBee Network**&emsp;Oct 2017 - Mar 2018  
+> **Abstract**: Our team designed an intelligent parking lot management system that can automatically deliver parking messages to users in real-time. Specifically, it first collects the status of parking space by utilizing geomagnetic sensors, then transmits the data to the center through the ZigBee network, finally synchronizes the information to the edge devices. I was responsible for the ZigBee module and the implementation of communications between nodes and sensors.  
 
 ## Skills
 * Language : English (**IELTS 7.5**)
