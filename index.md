@@ -49,5 +49,6 @@ Hi, I have received my master's degree from Institute of Information Engineering
 * Merit Student, UCAS, 2019
 * Outstanding Graduate of Sichuan University, SCU, 2018
 * Outstanding Undergraduate Graduation Thesis, SCU, 2018
+* The Third Prize of the National Undergraduate Electronic Design Contest in Sichuan Division, 2017
 * The First Prize Scholarship, SCU, 2016
 * National Encouragement Scholarship, SCU, 2015
