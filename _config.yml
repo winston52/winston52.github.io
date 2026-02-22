@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaojun Jia"
-description              : "Research Fellow, NTU"
-repository               : "jiaxiaojunQAQ/jiaxiaojunQAQ.github.io"
+title                    : "Wentao Huang"
+description              : "PhD student, Stony Brook University"
+repository               : "https://github.com/winston52/winston52.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaojun Jia"
-  avatar           : "images/加小俊.jpg"
+  name             : "Wentao Huang"
+  avatar           : "images/wentao_huang.jpg"
   bio              :  # e.g.,"Lorem ipsum College"
-  location         : "Singapore"
+  location         : "Stony Brook, NY"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=retTWnEAAAAJ&hl=zh-CN&oi=sra"
-  email            : "jiaxiaojunqaq@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dXdb0LMAAAAJ&hl=en"
+  email            : "wenthuang AT cs.stonybrook.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jiaxiaojunQAQ"
+  github           : "winston52"
   google_plus      :
   keybase          :
   instagram        :
