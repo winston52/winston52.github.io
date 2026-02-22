@@ -47,11 +47,15 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
 </div>
 </div> 
 
-[Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212)
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2025_Merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212), <br />
+**Wentao Huang**, Xiaoling Hu, Shahira Abousamra, Prateek Prasanna, Chao Chen <br />
+**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024**  \| [Code]()
+</div>
+</div> 
 
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024
-
-**Wentao Huang**, Xiaoling Hu, Shahira Abousamra, Prateek Prasanna, Chao Chen
 
 # 📖 Educations
 - *2022.08 - Present*, PhD in Computer Science, Stony Brook University. 
