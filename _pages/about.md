@@ -47,7 +47,7 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2025_Merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MICCAI2024_HardSampling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212), <br />
