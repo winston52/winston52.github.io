@@ -43,7 +43,7 @@ Before that, I obtained my master and bachelor degrees from University of Chines
   
 - [Merge: multi-faceted hierarchical graph-based gnn for gene expression prediction from whole slide histopathology images](https://openaccess.thecvf.com/content/CVPR2025/papers/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.pdf), <br />
 Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurovsky, Travis Steele Johnson, Chao Chen <br />
-**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025**  \| [Code]()
+**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025**  \| [Code](https://github.com/ags3927/MERGE)
 </div>
 </div> 
 
@@ -52,7 +52,7 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
   
 - [Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212), <br />
 **Wentao Huang**, Xiaoling Hu, Shahira Abousamra, Prateek Prasanna, Chao Chen <br />
-**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024**  \| [Code]()
+**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024**  \| [Code](https://github.com/winston52/HNM-WSI)
 </div>
 </div> 
 
