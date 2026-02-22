@@ -74,4 +74,4 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
+- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
