@@ -29,9 +29,18 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 # 📝 Publications 
 
-[Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://cvpr.thecvf.com/Conferences/2026)
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026_HistoSelect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://arxiv.org/pdf/2505.21494), <br />
+**Wentao Huang**, Weimin Lyu, Peiliang Lou, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Wenchao Han, Ruifeng Guo, Jiawei Zhou, Chao Chen, Chen Wang <br />
+**Conference on Neural Information Processing Systems 2025 (NeurIPS 2025)**
+</div>
+</div> 
 
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+<!-- [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://cvpr.thecvf.com/Conferences/2026)
+
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 -->
 
 **Wentao Huang**, Weimin Lyu, Peiliang Lou, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Wenchao Han, Ruifeng Guo, Jiawei Zhou, Chao Chen, Chen Wang
 
