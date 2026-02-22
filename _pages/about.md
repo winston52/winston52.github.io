@@ -34,7 +34,8 @@ Before that, I obtained my master and bachelor degrees from University of Chines
   
 - [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://cvpr.thecvf.com/Conferences/2026), <br />
 **Wentao Huang**, Weimin Lyu, Peiliang Lou, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Wenchao Han, Ruifeng Guo, Jiawei Zhou, Chao Chen, Chen Wang <br />
-**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**  \| [Code]() \| [Poster]()
+**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026** 
+ <!-- \| [Code]() \| [Poster]() -->
 </div>
 </div> 
 
