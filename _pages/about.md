@@ -25,26 +25,17 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2025. 
+- *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2026. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://cvpr.thecvf.com/Conferences/2026)
 
 **Wentao Huang**, Weimin Lyu, Peiliang Lou, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Wenchao Han, Ruifeng Guo, Jiawei Zhou, Chao Chen, Chen Wang
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Merge: multi-faceted hierarchical graph-based gnn for gene expression prediction from whole slide histopathology images](https://openaccess.thecvf.com/content/CVPR2025/papers/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.pdf)
 
 Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurovsky, Travis Steele Johnson, Chao Chen
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212)
 
