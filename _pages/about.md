@@ -38,17 +38,14 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 </div>
 </div> 
 
-<!-- [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://cvpr.thecvf.com/Conferences/2026)
-
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 -->
-
-**Wentao Huang**, Weimin Lyu, Peiliang Lou, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Wenchao Han, Ruifeng Guo, Jiawei Zhou, Chao Chen, Chen Wang
-
-[Merge: multi-faceted hierarchical graph-based gnn for gene expression prediction from whole slide histopathology images](https://openaccess.thecvf.com/content/CVPR2025/papers/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.pdf)
-
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
-
-Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurovsky, Travis Steele Johnson, Chao Chen
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2025_Merge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Merge: multi-faceted hierarchical graph-based gnn for gene expression prediction from whole slide histopathology images](https://openaccess.thecvf.com/content/CVPR2025/papers/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.pdf), <br />
+Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurovsky, Travis Steele Johnson, Chao Chen <br />
+**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025**  \| [Code]()
+</div>
+</div> 
 
 [Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212)
 
