@@ -59,8 +59,6 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
 </div>
 </div> 
 
----
-
 ## 🌟 Journal
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TMI_rankbygene.png' alt="sym" width="100%"></div></div>
