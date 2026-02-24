@@ -64,7 +64,7 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TMI_rankbygene.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://ieeetmi.org/), <br />
+- [RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://arxiv.org/abs/2411.15076), <br />
 **Wentao Huang**, Meilong Xu, Xiaoling Hu, Shahira Abousamra, Aniruddha Ganguly, Saarthak Kapse, Alisa Yurovsky, Prateek Prasanna, Tahsin Kurc, Joel Saltz, Michael L. Miller, Chao Chen <br />
 major revision **IEEE Transactions on Medical Imaging (TMI)** 
 </div>
