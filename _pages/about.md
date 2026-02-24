@@ -27,7 +27,9 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2026. 
 
-# 📝 Publications 
+# 📝 Publications
+
+## ✨ Conference
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026_HistoSelect.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +56,17 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
 - [Hard negative sample mining for whole slide image classification](https://arxiv.org/abs/2410.02212), <br />
 **Wentao Huang**, Xiaoling Hu, Shahira Abousamra, Prateek Prasanna, Chao Chen <br />
 **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024**  \| [Code](https://github.com/winston52/HNM-WSI)
+</div>
+</div> 
+
+## 🌟 Journal
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TMI_rankbygene.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://ieeetmi.org/), <br />
+**Wentao Huang**, Meilong Xu, Xiaoling Hu, Shahira Abousamra, Aniruddha Ganguly, Saarthak Kapse, Alisa Yurovsky, Prateek Prasanna, Tahsin Kurc, Joel Saltz, Michael L. Miller, Chao Chen <br />
+**IEEE Transactions on Medical Imaging (TMI)** 
 </div>
 </div> 
 
