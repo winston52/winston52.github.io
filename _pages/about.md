@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
+
 I am currently a PhD student at the Department of Computer Science at Stony Brook University, advised by [Prof. Chao Chen](https://chaochen.github.io/). I am also working closely with [Dr. Xiaoling Hu](https://huxiaoling.github.io/) and [Dr. Shahira Abousamra](https://shahiraabousamra.github.io/).
 
 Before that, I obtained my master and bachelor degrees from University of Chinese Academy of Sciences and Sichuan University, respectively.
@@ -25,7 +27,9 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Started as a Machine Learning Intern at PathAI. 
 - *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2026. 
+
 
 # 📝 Publications
 
@@ -36,8 +40,7 @@ Before that, I obtained my master and bachelor degrees from University of Chines
   
 - [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://arxiv.org/abs/2603.00667), <br />
 **Wentao Huang**, Weimin Lyu, Peiliang Lou, Qingqiao Hu, Xiaoling Hu, Shahira Abousamra, Wenchao Han, Ruifeng Guo, Jiawei Zhou, Chao Chen, Chen Wang <br />
-**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026** 
- <!-- \| [Code]() \| [Poster]() -->
+**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**  \| [Code](https://github.com/winston52/HistoSelect) \| [Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36280.png?t=1779296253.3069742)
 </div>
 </div> 
 
@@ -71,10 +74,15 @@ major revision **IEEE Transactions on Medical Imaging (TMI)**
 </div> 
 
 
-# 📖 Educations
+# 📖 Education
 - *2022.08 - Present*, PhD in Computer Science, Stony Brook University. 
 - *2018.09 - 2021.06*, Master in Computer Engineering, University of Chinese Academy of Sciences.
 - *2014.09 - 2018.06*, Bachelor in Telecomunication Engineering, Sichuan University.
+
+
+# 💻 Experience
+- *2026.05 - Present*, Machine Learning Intern, PathAI, Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/).
+- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
 
 
 <!-- # 🎖 Honors and Awards
@@ -86,6 +94,3 @@ major revision **IEEE Transactions on Medical Imaging (TMI)**
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
