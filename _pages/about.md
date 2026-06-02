@@ -27,7 +27,7 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Started as a Machine Learning Intern at PathAI. 
+- *2026.05*: &nbsp;🎉🎉 Started as a Machine Learning Intern at [PathAI](https://www.pathai.com/). 
 - *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2026. 
 
 
