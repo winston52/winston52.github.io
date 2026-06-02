@@ -33,7 +33,7 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 # 💻 Experience
 - *2026.05 - Present*, Machine Learning Intern, [PathAI](https://www.pathai.com/), Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/), Boston, MA, USA.
-- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
+- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), Rochester, MN, USA.
 
 
 # 📝 Publications
