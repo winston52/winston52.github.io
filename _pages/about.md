@@ -81,7 +81,7 @@ major revision **IEEE Transactions on Medical Imaging (TMI)**
 
 
 # 💻 Experience
-- *2026.05 - Present*, Machine Learning Intern, PathAI, Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/).
+- *2026.05 - Present*, Machine Learning Intern, [PathAI](https://www.pathai.com/), Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/).
 - *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
 
 
