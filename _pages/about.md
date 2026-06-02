@@ -31,6 +31,11 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 - *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2026. 
 
 
+# 💻 Experience
+- *2026.05 - Present*, Machine Learning Intern, [PathAI](https://www.pathai.com/), Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/).
+- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
+
+
 # 📝 Publications
 
 ## ✨ Conference
@@ -78,11 +83,6 @@ major revision **IEEE Transactions on Medical Imaging (TMI)**
 - *2022.08 - Present*, PhD in Computer Science, Stony Brook University. 
 - *2018.09 - 2021.06*, Master in Computer Engineering, University of Chinese Academy of Sciences.
 - *2014.09 - 2018.06*, Bachelor in Telecomunication Engineering, Sichuan University.
-
-
-# 💻 Experience
-- *2026.05 - Present*, Machine Learning Intern, [PathAI](https://www.pathai.com/), Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/).
-- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), MN, USA.
 
 
 <!-- # 🎖 Honors and Awards
