@@ -21,9 +21,9 @@ redirect_from:
 
 I am currently a PhD student at the Department of Computer Science at Stony Brook University, advised by [Prof. Chao Chen](https://chaochen.github.io/). I am also working closely with [Dr. Xiaoling Hu](https://huxiaoling.github.io/) and [Dr. Shahira Abousamra](https://shahiraabousamra.github.io/).
 
-Before that, I obtained my master and bachelor degrees from University of Chinese Academy of Sciences and Sichuan University, respectively.
+Before that, I obtained my master and bachelor degrees from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and [Sichuan University](https://en.scu.edu.cn/), respectively.
 
-**Research Interests**: I am broadly interested in computational pathology, spatial transcriptomics, vision-language model and multi-modal representation learning.
+**Research Interests**: I am broadly interested in vision-language models and multi-modal representation learning, with applications to computational pathology and spatial transcriptomics.
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 # 💻 Experience
 - *2026.05 - Present*, Machine Learning Intern, [PathAI](https://www.pathai.com/), Mentors: [Deeksha Kartik](https://www.linkedin.com/in/deeksha-kartik/), [Chintan Shah](https://www.linkedin.com/in/chnsh/), [Zhengyang Zhou](https://www.linkedin.com/in/zhengyang-zhou-438105397/), Boston, MA, USA.
-- *2025.05 - 2025.11*, Research Intern, Mayo Clinic, Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), Rochester, MN, USA.
+- *2025.05 - 2025.11*, Research Intern, [Mayo Clinic](https://www.mayoclinic.org/), Mentor: [Dr. Chen Wang](https://www.mayo.edu/research/faculty/wang-chen-ph-d/bio-20140227), Rochester, MN, USA.
 
 
 # 📝 Publications
@@ -80,9 +80,9 @@ major revision **IEEE Transactions on Medical Imaging (TMI)**  \| [Code](https:/
 
 
 # 📖 Education
-- *2022.08 - Present*, PhD in Computer Science, Stony Brook University. 
-- *2018.09 - 2021.06*, Master in Computer Engineering, University of Chinese Academy of Sciences.
-- *2014.09 - 2018.06*, Bachelor in Telecomunication Engineering, Sichuan University.
+- *2022.08 - Present*, PhD in Computer Science, [Stony Brook University](https://www.stonybrook.edu/). 
+- *2018.09 - 2021.06*, Master in Computer Engineering, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
+- *2014.09 - 2018.06*, Bachelor in Telecomunication Engineering, [Sichuan University](https://en.scu.edu.cn/).
 
 
 <!-- # 🎖 Honors and Awards
