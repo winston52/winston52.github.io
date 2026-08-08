@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am currently a PhD student at the Department of Computer Science at Stony Brook University, advised by [Prof. Chao Chen](https://chaochen.github.io/). I am also working closely with [Dr. Xiaoling Hu](https://huxiaoling.github.io/) and [Dr. Shahira Abousamra](https://shahiraabousamra.github.io/).
+I am currently a PhD student at the Department of Computer Science at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Chao Chen](https://chaochen.github.io/). I am also working closely with [Dr. Xiaoling Hu](https://huxiaoling.github.io/) and [Dr. Shahira Abousamra](https://shahiraabousamra.github.io/).
 
 Before that, I obtained my master and bachelor degrees from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and [Sichuan University](https://en.scu.edu.cn/), respectively.
 
