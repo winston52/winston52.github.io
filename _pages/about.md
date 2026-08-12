@@ -27,8 +27,9 @@ Before that, I obtained my master and bachelor degrees from University of Chines
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 RankByGene was accepted by TMI. 
 - *2026.05*: &nbsp;🎉🎉 Started as a Machine Learning Intern at [PathAI](https://www.pathai.com/). 
-- *2026.02*: &nbsp;🎉🎉 A paper was accepted by CVPR 2026. 
+- *2026.02*: &nbsp;🎉🎉 HistoSelect was accepted by CVPR 2026. 
 
 
 # 💻 Experience
@@ -74,7 +75,7 @@ Aniruddha Ganguly, Debolina Chatterjee, **Wentao Huang**, Jie Zhang, Alisa Yurov
   
 - [RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency](https://arxiv.org/abs/2411.15076), <br />
 **Wentao Huang**, Meilong Xu, Xiaoling Hu, Shahira Abousamra, Aniruddha Ganguly, Saarthak Kapse, Alisa Yurovsky, Prateek Prasanna, Tahsin Kurc, Joel Saltz, Michael L. Miller, Chao Chen <br />
-major revision **IEEE Transactions on Medical Imaging (TMI)**  \| [Code](https://github.com/winston52/RankByGene)
+**IEEE Transactions on Medical Imaging (TMI), 2026**  \| [Code](https://github.com/winston52/RankByGene)
 </div>
 </div> 
 
